@@ -81,23 +81,6 @@ CGPA: **7.99**
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushisingh2&show_icons=true&theme=default" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushisingh2&layout=compact&theme=default" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ayushisingh2"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
