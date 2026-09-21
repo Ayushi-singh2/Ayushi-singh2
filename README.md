@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Ayushi%20Singh-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Ayushi-singh2">
-    <img src="https://img.shields.io/badge/GitHub-Ayushisingh2-black?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Ayushi-singh2-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,react,js,html,css,git,maven,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,react,js,html,css,git,postman" />
 </p>
 
 ---
