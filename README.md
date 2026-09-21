@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/ayushi-singh-231362226">
     <img src="https://img.shields.io/badge/LinkedIn-Ayushi%20Singh-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Ayushisingh2">
+  <a href="https://github.com/Ayushi-singh2">
     <img src="https://img.shields.io/badge/GitHub-Ayushisingh2-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -88,5 +88,5 @@ CGPA: **7.99**
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ayushi-singh-231362226">💼 LinkedIn</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/Ayushisingh2">🐙 GitHub</a>
+  <a href="https://github.com/Ayushi-singh2">🐙 GitHub</a>
 </p>
